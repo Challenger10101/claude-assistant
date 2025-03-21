@@ -1,0 +1,17 @@
+claude-assistant/
+├── claude-assistant.php
+├── assets/
+│   ├── css/
+│   │   ├── admin.css
+│   │   └── frontend.css
+│   ├── js/
+│   │   ├── admin.js
+│   │   ├── frontend.js
+│   │   └── dashboard.js
+│   └── images/
+│       └── claude-icon.png (à trouver ou créer)
+├── templates/
+│   ├── admin-page.php
+│   ├── settings-page.php
+│   └── chat-interface.php
+└── readme.txt
